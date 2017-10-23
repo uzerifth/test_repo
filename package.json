@@ -1,0 +1,28 @@
+{
+  "name": "test_repo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.0",
+    "glyphicons": "^0.2.0",
+    "lodash": "^4.17.4",
+    "react": "^16.0.0",
+    "react-cookies": "^0.1.0",
+    "react-dom": "^16.0.0",
+    "react-dropzone": "^4.2.1",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "redux-form": "^7.1.1",
+    "redux-promise": "^0.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
